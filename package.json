@@ -1,0 +1,7 @@
+{
+  "name": "bravo-barbearia-conceito",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo editorial de barbearia fictícia com agendamento demonstrativo.",
+  "scripts": { "dev": "node preview.mjs", "check": "node --check app.js" }
+}
